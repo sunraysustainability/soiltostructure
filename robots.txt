@@ -1,0 +1,8 @@
+# robots.txt for soiltostructure.com
+# This file blocks all web crawlers from accessing any part of the site.
+
+User-agent: *
+Disallow: /
+
+# Optional: add your sitemap here later if you ever open the site to search engines
+# Sitemap: https://soiltostructure.com/sitemap.xml
